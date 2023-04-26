@@ -1,5 +1,7 @@
 
-## Set up new ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) repository and create development branch for!
+## Set up new ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) repository and create development branch.
+
+# Step-by-step instructions | ⬇ |
 
 1. Create a directory 'new-project'
 ```bash
@@ -50,8 +52,4 @@ git add . && git commit -am "added instructions"
 git checkout main
 git merge development
 ```
-13. Check RREADME.md file and commit
-
-```bash
-git add . && git commit -am "merged development"
-```
+13. Check RREADME.md file is updated correctly. 🎉
